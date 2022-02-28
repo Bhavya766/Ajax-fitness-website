@@ -1,0 +1,27 @@
+{
+  "name": "Ajax-fitness-website",
+  "version": "1.0.0",
+  "description": "Website/landing page created using tailwind and AOS animation.",
+  "main": "index.js",
+  "scripts": {
+    "build":"vite build",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavya766/Ajax-fitness-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavya766/Ajax-fitness-website/issues"
+  },
+  "homepage": "https://github.com/Bhavya766/Ajax-fitness-website#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.4"
+  }
+}
